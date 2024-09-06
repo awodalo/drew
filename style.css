@@ -1,0 +1,29 @@
+header{
+    background-color: aqua;
+    color:rgb(0, 81, 255);
+    font-family: sans-serif;
+    border-style:outset;
+    border: radius 5px;
+    text-shadow: 10px;
+    top: 10px;
+   
+}
+
+div1{
+
+    color: rgb(0, 38, 255);
+}
+body{
+    background-color:lawngreen;
+    font-size: large;
+    border-style:outset;
+    border: radius 10px;
+    margin:auto; 
+    top: 10px; 
+    background-image: url(images/download\ \(1\).jpg);
+    background-size:cover
+}
+#dogs{
+    float: left;
+
+}

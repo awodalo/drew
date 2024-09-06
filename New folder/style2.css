@@ -1,0 +1,22 @@
+header{ background-color: rgb(43, 189, 226);
+ margin:0;
+ padding:0px
+}
+
+h1{font-family: Arial, Helvetica, sans-serif;
+
+}
+body{
+    background-color: rgb(0, 225, 255);
+}
+
+.dad{
+    background-color: blueviolet;
+}
+
+.mybuttons:hover{background-color: rgb(255, 0, 98);
+
+}
+#myLabel{
+    font-size: 200px;
+}
